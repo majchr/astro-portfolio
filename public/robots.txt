@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://astro-portfolio.mchroud.workers.dev/sitemap-index.xml

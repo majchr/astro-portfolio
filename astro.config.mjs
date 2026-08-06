@@ -11,5 +11,5 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: "https://astro-portfolio.mchroud.workers.dev",
   integrations: [sitemap()],
-  adapter: cloudflare()
+ // adapter: cloudflare()
 });
